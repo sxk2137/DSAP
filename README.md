@@ -1,16 +1,15 @@
 
 # DSAPD: Dual-End Spatial Conditioning and Analytic-Prior-Guided Diffusion for Real-World Dehazing
 
-
 ## Visualization
 
 ### Spatially Varying Haze
 
-[View Spatially Varying Haze](hazeregion_final.png)
+![Spatially Varying Haze](hazeregion_final.png)
 
 ### Visual Comparison on RTTS
 
-[View RTTS Comparison](RTTS_final.png)
+![RTTS Comparison](RTTS_final.png)
 
 ## Environment Setup
 
