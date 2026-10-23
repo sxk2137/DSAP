@@ -19,14 +19,13 @@
 git clone https://github.com/sxk2137/DSAP.git
 cd DSAP/DSAP
 
-conda create -n h2h python=3.10 -y
-conda activate h2h
+conda create -n name python=3.10 -y
+conda activate name
 
 pip install -r requirements.txt
 ```
 
 ## Datasets
-
 | Dataset | Download Link |
 |---------|---------------|
 | RIDCP | [Download](https://github.com/RQ-Wu/RIDCP_dehazing) |
