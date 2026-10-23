@@ -4,15 +4,17 @@
 
 
 
+
 ## Visualization
 
 ### Spatially Varying Haze
 
-![Spatially Varying Haze](./hazeregion_final.png)
+![Spatially Varying Haze](https://raw.githubusercontent.com/sxk2137/DSAP/main/hazeregion_final.png)
 
 ### Visual Comparison on RTTS
 
-![RTTS Comparison](./RTTS_final.png)
+![RTTS Comparison](https://raw.githubusercontent.com/sxk2137/DSAP/main/RTTS_final.png)
+
 
 
 ## Environment Setup
