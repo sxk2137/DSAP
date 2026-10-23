@@ -6,11 +6,11 @@
 
 ### Spatially Varying Haze
 
-[View Spatially Varying Haze](hazeregion_final.pdf)
+[View Spatially Varying Haze](hazeregion_final.png)
 
 ### Visual Comparison on RTTS
 
-[View RTTS Comparison](RTTS_final.pdf)
+[View RTTS Comparison](RTTS_final.png)
 
 ## Environment Setup
 
